@@ -1,6 +1,6 @@
-example = 'Ledingenger'
-print(example[0])
-print(example[-1])
-print(example[5:])
-print(example[::-1])
-print(example[0::2])
+home_wk: int = 12
+time_all = 1.5
+name_of_curse = 'Python'
+time_at_all_hm = float
+time_at_all_hm = time_all / home_wk
+print('Курс:', name_of_curse, ',', 'всего задач:', home_wk, ',', 'затраченное время:', time_all, ',', 'среднее время выполнения:', time_at_all_hm)
